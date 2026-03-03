@@ -40,3 +40,6 @@ logs/
 .env
 /ECTriviaApp/.gradle/
 /ECTriviaApp/.gradle/
+
+# Maven
+target/
